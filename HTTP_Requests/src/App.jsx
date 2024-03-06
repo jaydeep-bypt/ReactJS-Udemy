@@ -32,6 +32,9 @@ function App() {
       }
       return [selectedPlace, ...prevPickedPlaces];
     });
+
+    fetch();
+
   }
 
   const handleRemovePlace = useCallback(async function handleRemovePlace() {
