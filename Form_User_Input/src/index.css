@@ -9,7 +9,8 @@ body {
   font-family: 'Lato', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(#d0d6d9, #b1b4ba);
+  /* background: linear-gradient(#d0d6d9, #b1b4ba); */
+  background-color: #142020;
   color: #d9e2f1;
   min-height: 100vh;
 }
@@ -34,7 +35,7 @@ header h1 {
   font-size: 3rem;
   margin: 1rem 0;
   letter-spacing: 0.2rem;
-  color: #2f4444;
+  color: #c9bcbc;
 }
 
 form {
